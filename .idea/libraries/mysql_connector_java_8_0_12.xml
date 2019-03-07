@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.12">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.12.jar!/" />
+      <root url="jar://$USER_HOME$/extras - jars/tomcat-jdbc-9.0.14.jar!/" />
+      <root url="jar://$USER_HOME$/extras - jars/javax.servlet-api-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
